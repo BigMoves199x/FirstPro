@@ -1,0 +1,67 @@
+*,**{
+    padding: 0%;
+    margin: 0;
+}
+.container{
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+
+}
+.container2{
+    padding: 4%;
+}
+
+.age {
+    border-radius: 5px;
+    background-color: rgb(87, 42, 42);
+    color: white;
+    height: 40px;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.year {
+    border-radius: 5px;
+    background-color: rgb(87, 42, 42);
+    height: 35px;
+    width: 120px;
+    font-size: 13px;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+.circle {
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(87, 42, 42);
+    border-radius: 150px;
+    margin: 0 auto;
+}
+.Giftbox {
+    background-image: url("images/giftbox-cover.png");
+    background-size: cover;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+}
+.Giftbox:hover {
+    background-image: url("https://media2.giphy.com/media/RB46T9ysjzDEs/giphy.gif");
+    cursor: pointer;
+}
+.Giftbox2{
+    background-image: url("images/giftbox-cover.png");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+   
+}
+
+.Giftbox2:hover {
+    background-image: url("https://media4.giphy.com/media/g0iVnhZfzrd9nDquih/giphy.gif");
+    cursor: pointer;
+}
+.text1{
+    font-size: 10px;
+}
